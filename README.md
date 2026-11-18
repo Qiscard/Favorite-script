@@ -15,6 +15,8 @@
 | 主动显示密码 | 快捷键切换密码框明文 / 密文 | 0.2.1 | [安装](https://raw.githubusercontent.com/Qiscard/Favorite-script/main/ScriptCat/主动显示密码.user.js) / [查看](MD/主动显示密码.md) |
 | PikPak 分享下载助手 | 扫描 PikPak 分享目录、取直链推送 aria2 批量下载，支持在线播放与导出 | 0.7.1 | [安装](https://raw.githubusercontent.com/Qiscard/Favorite-script/main/ScriptCat/PikPak分享下载助手.user.js) / [查看](MD/PikPak分享下载助手.md) |
 
+需要开发配套的脚本会带同名子目录，内含参考实现、测试等文件（如 [ScriptCat/PikPak分享下载助手/](ScriptCat/PikPak分享下载助手/)）。
+
 ## 许可
 
 除脚本内单独标注外，本仓库脚本均以 MIT 协议开源。
